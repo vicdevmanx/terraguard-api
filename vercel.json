@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/forecasts(?:/(.*))?",
+      "dest": "index.js"
+    }
+  ],
+  "env": {
+    "WEATHER_API_KEY": "4e0fa5645cf8441fa2d231734252207"
+  }
+}

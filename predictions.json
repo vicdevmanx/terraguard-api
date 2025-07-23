@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Itigidi",
+    "LGA": "Abi",
+    "lat": 5.7997,
+    "lng": 8.0333,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ediba",
+    "LGA": "Abi",
+    "lat": 5.6833,
+    "lng": 8.0667,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Imabana 1",
+    "LGA": "Abi",
+    "lat": 5.7167,
+    "lng": 8.1167,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ebom-Ebi Jakara",
+    "LGA": "Abi",
+    "lat": 5.72,
+    "lng": 8.12,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Afafanyi",
+    "LGA": "Abi",
+    "lat": 5.75,
+    "lng": 8.1,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Abayong",
+    "LGA": "Abi",
+    "lat": 5.77,
+    "lng": 8.09,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ikom 1",
+    "LGA": "Ikom",
+    "lat": 5.9667,
+    "lng": 8.7167,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ikom 2",
+    "LGA": "Ikom",
+    "lat": 5.9767,
+    "lng": 8.7267,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Olulumo",
+    "LGA": "Ikom",
+    "lat": 5.976,
+    "lng": 8.7,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ajassor",
+    "LGA": "Ikom",
+    "lat": 5.97,
+    "lng": 8.73,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ajere",
+    "LGA": "Ikom",
+    "lat": 5.98,
+    "lng": 8.735,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Itaka",
+    "LGA": "Ikom",
+    "lat": 5.955,
+    "lng": 8.72,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Mkpot",
+    "LGA": "Ikom",
+    "lat": 5.95,
+    "lng": 8.71,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Osopong 1",
+    "LGA": "Ikom",
+    "lat": 6,
+    "lng": 8.74,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Osopong 2",
+    "LGA": "Ikom",
+    "lat": 6.01,
+    "lng": 8.75,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Azuabe",
+    "LGA": "Ikom",
+    "lat": 6.02,
+    "lng": 8.76,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Obubra Urban",
+    "LGA": "Obubra",
+    "lat": 6.0833,
+    "lng": 8.3333,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ofodua",
+    "LGA": "Obubra",
+    "lat": 6.1,
+    "lng": 8.35,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ofumbongha-Yala",
+    "LGA": "Obubra",
+    "lat": 6.11,
+    "lng": 8.36,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ekureku 1",
+    "LGA": "Obubra",
+    "lat": 6.12,
+    "lng": 8.37,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ekureku 2",
+    "LGA": "Obubra",
+    "lat": 6.13,
+    "lng": 8.38,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Echara",
+    "LGA": "Obubra",
+    "lat": 6.14,
+    "lng": 8.39,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Enyibuchiri",
+    "LGA": "Obubra",
+    "lat": 6.15,
+    "lng": 8.4,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ekim-Effraya",
+    "LGA": "Obubra",
+    "lat": 6.16,
+    "lng": 8.41,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ofutop 1",
+    "LGA": "Obubra",
+    "lat": 6.17,
+    "lng": 8.42,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Yala Nkum",
+    "LGA": "Yala",
+    "lat": 6.7,
+    "lng": 8.5,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.43,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 3.02,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 5.72,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ovonum",
+    "LGA": "Yala",
+    "lat": 6.71,
+    "lng": 8.51,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.43,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 3.02,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 5.72,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Adokpa",
+    "LGA": "Yala",
+    "lat": 6.72,
+    "lng": 8.52,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.42,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 3.02,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 5.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Nta-Nselle",
+    "LGA": "Yala",
+    "lat": 6.73,
+    "lng": 8.53,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.42,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 3.02,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 5.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Assiga",
+    "LGA": "Boki",
+    "lat": 5.65,
+    "lng": 8.5,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Akamkpa",
+    "LGA": "Akamkpa",
+    "lat": 5.4,
+    "lng": 8.35,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 16.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 9.8,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.09,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Uyanga",
+    "LGA": "Akamkpa",
+    "lat": 5.35,
+    "lng": 8.3,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 16.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 9.8,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.09,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Betem",
+    "LGA": "Akamkpa",
+    "lat": 5.37,
+    "lng": 8.32,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 16.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 9.8,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.09,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ikang",
+    "LGA": "Bakassi",
+    "lat": 4.9333,
+    "lng": 8.5,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 16.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 9.8,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.09,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Henshaw Town",
+    "LGA": "Calabar Municipality",
+    "lat": 4.95,
+    "lng": 8.322,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Creek Town 1",
+    "LGA": "Calabar Municipality",
+    "lat": 5.0167,
+    "lng": 8.35,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ikoneto",
+    "LGA": "Calabar Municipality",
+    "lat": 5.03,
+    "lng": 8.36,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Adiabo Efut",
+    "LGA": "Calabar Municipality",
+    "lat": 5.02,
+    "lng": 8.355,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Eyo Bassey",
+    "LGA": "Calabar Municipality",
+    "lat": 5.01,
+    "lng": 8.345,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Anantigha",
+    "LGA": "Calabar South",
+    "lat": 4.955,
+    "lng": 8.325,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 17.44,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 70
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 11.45,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 10.92,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ekajuk 2",
+    "LGA": "Etung",
+    "lat": 6.2,
+    "lng": 8.8,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 30,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 25,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ndiegu Echara 1",
+    "LGA": "Obubra",
+    "lat": 6.15,
+    "lng": 8.41,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.98,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.45,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11.25,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ndiegu Echara 2",
+    "LGA": "Obubra",
+    "lat": 6.16,
+    "lng": 8.42,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ndiegu Inyimegu",
+    "LGA": "Obubra",
+    "lat": 6.17,
+    "lng": 8.43,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Ndiegu Amegu 2",
+    "LGA": "Obubra",
+    "lat": 6.18,
+    "lng": 8.44,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Adadama",
+    "LGA": "Abi",
+    "lat": 5.7,
+    "lng": 8,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 4.38,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 1.47,
+        "precipitationDescriptor": "Very light/drizzle, Barely even wets the ground",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 9.24,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Gabu",
+    "LGA": "Etung",
+    "lat": 6.7,
+    "lng": 8.8,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 10.42,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 3.02,
+        "precipitationDescriptor": "Light rain, Noticeable showers, damp roads",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 5.71,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Osopong 1",
+    "LGA": "Yala",
+    "lat": 6,
+    "lng": 8.74,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Osopong 2",
+    "LGA": "Yala",
+    "lat": 6.01,
+    "lng": 8.75,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  },
+  {
+    "name": "Nsofang",
+    "LGA": "Boki",
+    "lat": 6.25,
+    "lng": 8.65,
+    "dailyForecast": [
+      {
+        "date": "2025-07-23",
+        "totalPrecipitation": 12.67,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-24",
+        "totalPrecipitation": 6.81,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 60,
+        "predictionAccuracy": 80
+      },
+      {
+        "date": "2025-07-25",
+        "totalPrecipitation": 11,
+        "precipitationDescriptor": "Moderate rain, Surface run‑off begins",
+        "heavyHourCount": 0,
+        "floodProbability": 55,
+        "predictionAccuracy": 80
+      }
+    ]
+  }
+]
