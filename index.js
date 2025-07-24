@@ -175,6 +175,10 @@ async function runCustomFloodAlertCheck(groupedData) {
 // === Routes ===
 let cachedGroupedData = null;
 
+app.get('/', (req, res) => {
+    res.json({message: 'welcome to terraguard'})
+})
+
 app.get('/api/all', async (req, res) => {
     try {
         if (!cachedGroupedData) {
