@@ -529,8 +529,8 @@ async function runCustomFloodAlertCheck(groupedData) {
         const risk = community.risk;
 
         if (
-          (risk === 'Low' && rain > 5) ||
-          (risk === 'Medium' && rain >= 30 && rain <= 50) ||
+          (risk === 'Low' && rain > 30) ||
+          (risk === 'Medium' && rain >= 40 && rain <= 50) ||
           (risk === 'High' && rain >= 20 && rain <= 30)
         ) {
           riskyDates.push({
