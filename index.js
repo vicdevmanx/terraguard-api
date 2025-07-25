@@ -2,10 +2,22 @@ import express from 'express';
 import cors from 'cors';
 import fs from 'fs';
 import axios from 'axios';
+import { createServer } from 'http';
+import { Server } from 'socket.io';
 
+// === Setup Express + HTTP server + Socket.IO ===
 const app = express();
 app.use(cors());
 
+const httpServer = createServer(app);
+const io = new Server(httpServer, {
+  cors: { origin: '*' } // Open CORS for dev — lock this down for prod.
+});
+
+// === Socket.IO connection ===
+io.on('connection', (socket) => {
+  console.log('🚦 Client connected:', socket.id);
+});
 // === Precipitation buckets ===
 const precipBuckets = [
     { max: 2, desc: 'Very light/drizzle', impact: 'Barely even wets the ground' },
@@ -505,67 +517,71 @@ async function buildGrouped() {
 
 // === ✅ YOUR CUSTOM FLOOD CHECK ===
 async function runCustomFloodAlertCheck(groupedData) {
-    const floodRisks = {};
+  const floodRisks = {};
+  console.log('func hitted')
 
-    for (const [lgaName, communities] of Object.entries(groupedData)) {
-        for (const community of communities) {
-            const riskyDates = [];
+  for (const [lgaName, communities] of Object.entries(groupedData)) {
+    for (const community of communities) {
+      const riskyDates = [];
 
-            for (const day of community.dailyForecast) {
-                const rain = day.totalPrecipitation;
-                const risk = community.risk;
+      for (const day of community.dailyForecast) {
+        const rain = day.totalPrecipitation;
+        const risk = community.risk;
 
-                if (
-                    (risk === 'Low' && rain > 5) ||
-                    (risk === 'Medium' && rain >= 30 && rain <= 50) ||
-                    (risk === 'High' && rain >= 20 && rain <= 30)
-                ) {
-                    riskyDates.push({
-                        date: day.date,
-                        rainAmount: rain,
-                    });
-                }
-            }
-
-            if (riskyDates.length > 0) {
-                const key = `${community.name}_${lgaName}`;
-                if (!floodRisks[key]) {
-                    floodRisks[key] = {
-                        communityName: community.name,
-                        LGA: lgaName,
-                        risk: community.risk,
-                        lat: community.lat,
-                        lng: community.lng,
-                        dates: [],
-                    };
-                }
-                floodRisks[key].dates.push(...riskyDates);
-            }
+        if (
+          (risk === 'Low' && rain > 5) ||
+          (risk === 'Medium' && rain >= 30 && rain <= 50) ||
+          (risk === 'High' && rain >= 20 && rain <= 30)
+        ) {
+          riskyDates.push({
+            date: day.date,
+            rainAmount: rain,
+          });
         }
-    }
+      }
 
-    if (Object.keys(floodRisks).length === 0) {
-        console.log('✅ No flood risks detected right now!')
-    } else {
-        for (const [key, info] of Object.entries(floodRisks)) {
-            console.log(`⚠️ ALERT for ${info.communityName} (${info.LGA}) [${info.risk} risk]:`);
-            info.dates.forEach(d =>
-                console.log(`  - ${d.date} → ${d.rainAmount}mm`));
-            // 👉 Here’s where you call your custom handler once:
-            try {
-                const sendMail = await axios.post('https://terra-guard-mailer.vercel.app/api/send-alert', {
-                    location: info.communityName,
-                    date:  info.dates,
-                    percentage: info.risk
-                })
-                console.log(sendMail)
-            }
-            catch (e) {
-                console.log(e)
-            }
-            // sendCustomFloodAlert(info);
+      if (riskyDates.length > 0) {
+        const key = `${community.name}_${lgaName}`;
+        if (!floodRisks[key]) {
+          floodRisks[key] = {
+            communityName: community.name,
+            LGA: lgaName,
+            risk: community.risk,
+            lat: community.lat,
+            lng: community.lng,
+            dates: [],
+          };
         }
+        floodRisks[key].dates.push(...riskyDates);
+      }
     }
+  }
+
+  if (Object.keys(floodRisks).length === 0) {
+    console.log('✅ No flood risks detected right now!');
+  } else {
+    for (const [key, info] of Object.entries(floodRisks)) {
+      console.log(`⚠️ ALERT for ${info.communityName} (${info.LGA}) [${info.risk} risk]:`);
+      info.dates.forEach(d =>
+        console.log(`  - ${d.date} → ${d.rainAmount}mm`)
+      );
+
+      // ✅ Send mail
+      try {
+        const sendMail = await axios.post('https://terra-guard-mailer.vercel.app/api/send-alert', {
+          location: info.communityName,
+          date: info.dates,
+          percentage: info.risk
+        });
+        console.log(sendMail);
+      } catch (e) {
+        console.log(e);
+      }
+
+      // ✅ ALSO EMIT to frontends:
+      io.emit('flood-alert', info);
+    }
+  }
 }
 
 
@@ -608,6 +624,6 @@ app.get('/api/lga/:lgaName', async (req, res) => {
 });
 
 const PORT = 3000;
-app.listen(PORT, () => {
-    console.log(`🌧️  Flood Forecast API running at http://localhost:${PORT}/api/all`);
+httpServer.listen(PORT, () => {
+  console.log(`🌧️  Flood Forecast API running with Socket.IO at http://localhost:${PORT}`);
 });
